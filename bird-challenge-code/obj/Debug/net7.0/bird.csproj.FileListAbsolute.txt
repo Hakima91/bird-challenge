@@ -1,0 +1,14 @@
+C:\Users\talah\OneDrive\Desktop\ElevenFiftyProgects\coingfoundations\dotnetProjects\bird-challenge\bird-challenge-code\obj\Debug\net7.0\bird.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\talah\OneDrive\Desktop\ElevenFiftyProgects\coingfoundations\dotnetProjects\bird-challenge\bird-challenge-code\obj\Debug\net7.0\bird.AssemblyInfoInputs.cache
+C:\Users\talah\OneDrive\Desktop\ElevenFiftyProgects\coingfoundations\dotnetProjects\bird-challenge\bird-challenge-code\obj\Debug\net7.0\bird.AssemblyInfo.cs
+C:\Users\talah\OneDrive\Desktop\ElevenFiftyProgects\coingfoundations\dotnetProjects\bird-challenge\bird-challenge-code\obj\Debug\net7.0\bird.csproj.CoreCompileInputs.cache
+C:\Users\talah\OneDrive\Desktop\ElevenFiftyProgects\coingfoundations\dotnetProjects\bird-challenge\bird-challenge-code\bin\Debug\net7.0\bird.exe
+C:\Users\talah\OneDrive\Desktop\ElevenFiftyProgects\coingfoundations\dotnetProjects\bird-challenge\bird-challenge-code\bin\Debug\net7.0\bird.deps.json
+C:\Users\talah\OneDrive\Desktop\ElevenFiftyProgects\coingfoundations\dotnetProjects\bird-challenge\bird-challenge-code\bin\Debug\net7.0\bird.runtimeconfig.json
+C:\Users\talah\OneDrive\Desktop\ElevenFiftyProgects\coingfoundations\dotnetProjects\bird-challenge\bird-challenge-code\bin\Debug\net7.0\bird.dll
+C:\Users\talah\OneDrive\Desktop\ElevenFiftyProgects\coingfoundations\dotnetProjects\bird-challenge\bird-challenge-code\bin\Debug\net7.0\bird.pdb
+C:\Users\talah\OneDrive\Desktop\ElevenFiftyProgects\coingfoundations\dotnetProjects\bird-challenge\bird-challenge-code\obj\Debug\net7.0\bird.dll
+C:\Users\talah\OneDrive\Desktop\ElevenFiftyProgects\coingfoundations\dotnetProjects\bird-challenge\bird-challenge-code\obj\Debug\net7.0\refint\bird.dll
+C:\Users\talah\OneDrive\Desktop\ElevenFiftyProgects\coingfoundations\dotnetProjects\bird-challenge\bird-challenge-code\obj\Debug\net7.0\bird.pdb
+C:\Users\talah\OneDrive\Desktop\ElevenFiftyProgects\coingfoundations\dotnetProjects\bird-challenge\bird-challenge-code\obj\Debug\net7.0\bird.genruntimeconfig.cache
+C:\Users\talah\OneDrive\Desktop\ElevenFiftyProgects\coingfoundations\dotnetProjects\bird-challenge\bird-challenge-code\obj\Debug\net7.0\ref\bird.dll
